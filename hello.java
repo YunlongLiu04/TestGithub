@@ -4,5 +4,6 @@ public class hello{
 	
 		System.out.println("中国好！");
 	}
- public void
+ public void test
+
 }
